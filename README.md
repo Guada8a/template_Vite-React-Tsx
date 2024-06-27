@@ -39,3 +39,7 @@ export default {
   - [React Hook Form](https://react-hook-form.com/)
 - [i18next](https://www.i18next.com/)
 - [SweetAlert2](https://sweetalert2.github.io/)
+- Dotenv
+- Mui DatePickers
+- Dayjs for date formatting
+- React Select
